@@ -1,0 +1,106 @@
+Date,Description,Category,Cost,Currency,Deepak Kumar,Kartik Singh,Parth Agarwal,Aayush Tripathi
+
+2018-04-07,Rasgulle,General,50.00,INR,0.00,0.00,-25.00,25.00
+2018-04-08,Paneer subzi ,General,200.00,INR,0.00,-66.66,133.33,-66.67
+2018-04-08,golgappe,General,50.00,INR,0.00,50.00,-50.00,0.00
+2018-04-15,Mooch marod,General,230.00,INR,0.00,-230.00,230.00,0.00
+2018-04-15,Mooch marod,General,230.00,INR,0.00,0.00,230.00,-230.00
+2018-04-15,Return cab from mooch madod,Taxi,52.00,INR,26.00,0.00,-26.00,0.00
+2018-04-15,Mooch marod,General,230.00,INR,-230.00,0.00,230.00,0.00
+2018-04-15,Cab to mooch madod,Taxi,60.00,INR,-20.00,0.00,40.00,-20.00
+2018-04-18,Milk and nimbu,Groceries,50.00,INR,25.00,-25.00,0.00,0.00
+2018-04-18,Cab tuesday,Taxi,80.00,INR,40.00,0.00,0.00,-40.00
+2018-04-18,Cab monday,Taxi,86.00,INR,-43.00,0.00,0.00,43.00
+2018-04-18,Cab wednesday,Taxi,86.00,INR,-43.00,0.00,0.00,43.00
+2018-04-18,Fridge march,Furniture,640.00,INR,-160.00,-160.00,480.00,-160.00
+2018-04-18,Ice cream and gloves and other settlements.  This is your house spent I guess,Groceries,100.00,INR,-33.00,-33.00,100.00,-34.00
+2018-04-18,Dinner Rivayat and cab ,Dining out,720.00,INR,360.00,0.00,-360.00,0.00
+2018-04-19,water can,Groceries,70.00,INR,-23.34,46.67,0.00,-23.33
+2018-04-19,Cab thursday,Taxi,130.00,INR,86.66,-43.33,0.00,-43.33
+2018-04-19,Cab thursday,Taxi,10.00,INR,-10.00,0.00,0.00,10.00
+2018-04-20,auto ,Car,130.00,INR,-43.34,86.67,0.00,-43.33
+2018-04-21,milk,Groceries,20.00,INR,0.00,20.00,-10.00,-10.00
+2018-04-21,mk retal,General,588.00,INR,-588.00,588.00,0.00,0.00
+2018-04-21,mk retail,General,448.00,INR,0.00,448.00,0.00,-448.00
+2018-04-21,Vegetables and mil,Groceries,175.00,INR,-58.33,-58.33,0.00,116.66
+2018-04-21,Water,Water,35.00,INR,-11.66,-11.67,0.00,23.33
+2018-04-21,Prev balance,General,202.00,INR,202.00,0.00,0.00,-202.00
+2018-04-21,Aayush T. paid Kartik S.,Payment,454.66,INR,0.00,-454.66,0.00,454.66
+2018-04-21,Aayush T. paid Deepak K.,Payment,119.34,INR,-119.34,0.00,0.00,119.34
+2018-04-21,Aayush T. paid Deepak K.,Payment,119.34,INR,-119.34,0.00,0.00,119.34
+2018-04-21,Deepak K. paid Aayush T.,Payment,119.34,INR,119.34,0.00,0.00,-119.34
+2018-04-21,cake,Gifts,450.00,INR,-150.00,300.00,0.00,-150.00
+2018-04-21,Momos,General,100.00,INR,0.00,50.00,0.00,-50.00
+2018-04-21,onions,Groceries,12.00,INR,-4.00,8.00,0.00,-4.00
+2018-04-21,pepsi momos,General,30.00,INR,0.00,-15.00,0.00,15.00
+2018-04-21,thumbs up,General,80.00,INR,0.00,-40.00,0.00,40.00
+2018-04-22,Dahi,Groceries,24.00,INR,24.00,0.00,-24.00,0.00
+2018-04-22,Dum biryani,Dining out,200.00,INR,200.00,-200.00,0.00,0.00
+2018-04-23,Cab monday,Taxi,130.00,INR,86.66,-43.33,0.00,-43.33
+2018-04-24,Press balance,General,20.00,INR,20.00,-20.00,0.00,0.00
+2018-04-24,Cab tuesday,Taxi,130.00,INR,86.66,-43.33,0.00,-43.33
+2018-04-26,Cab april 25,Taxi,130.00,INR,86.66,-43.33,0.00,-43.33
+2018-04-26,Cab april 26,Taxi,70.00,INR,35.00,0.00,0.00,-35.00
+2018-04-29,Cab april 27,Taxi,115.00,INR,57.50,0.00,0.00,-57.50
+2018-04-30,Cab april 30,Taxi,130.00,INR,65.00,0.00,0.00,-65.00
+2018-05-02,Cab may 02,Taxi,86.00,INR,86.00,0.00,-86.00,0.00
+2018-05-03,Cab may 03,Taxi,43.30,INR,-43.30,0.00,43.30,0.00
+2018-05-04,Cab may 04,Taxi,130.00,INR,86.67,0.00,-86.67,0.00
+2018-05-06,electricity april,Electricity,1310.00,INR,-436.67,873.34,0.00,-436.67
+2018-05-07,Cab marathalli,Taxi,100.00,INR,100.00,0.00,0.00,-100.00
+2018-05-09,Cab may 07,Taxi,130.00,INR,65.00,-65.00,0.00,0.00
+2018-05-09,Cab may 08,Taxi,80.00,INR,40.00,-40.00,0.00,0.00
+2018-05-09,Water can,Groceries,70.00,INR,46.67,-23.34,0.00,-23.33
+2018-05-10,Cab may 09,Taxi,35.00,INR,35.00,-35.00,0.00,0.00
+2018-05-10,Cab may 10,Taxi,130.00,INR,65.00,-65.00,0.00,0.00
+2018-05-10,Milk,Groceries,20.00,INR,-20.00,20.00,0.00,0.00
+2018-05-12,water can,Groceries,70.00,INR,-23.34,46.67,0.00,-23.33
+2018-05-12,Cab May 11,Taxi,130.00,INR,65.00,-65.00,0.00,0.00
+2018-05-12,Dahi puri + Momos + gol gappe,Groceries,85.00,INR,85.00,-85.00,0.00,0.00
+2018-05-12,Box8 dinner,Dining out,175.00,INR,175.00,-175.00,0.00,0.00
+2018-05-12,Water dispenser,Water,190.00,INR,126.67,-63.34,0.00,-63.33
+2018-05-13,grocery,Groceries,191.00,INR,-63.67,127.34,0.00,-63.67
+2018-05-13,mk,General,265.00,INR,-265.00,265.00,0.00,0.00
+2018-05-13,eggs,Groceries,199.00,INR,0.00,199.00,0.00,-199.00
+2018-05-13,peps and lassi,Dining out,80.00,INR,80.00,-80.00,0.00,0.00
+2018-05-14,Breakfast may 12,Dining out,80.00,INR,53.33,-26.67,0.00,-26.66
+2018-05-14,Cab may 14,Taxi,65.00,INR,-65.00,65.00,0.00,0.00
+2018-05-15,Cab may 15,Taxi,70.00,INR,-35.00,35.00,0.00,0.00
+2018-05-17,Cab May 17,Taxi,33.00,INR,-33.00,33.00,0.00,0.00
+2018-05-17,Cab may 16,Taxi,80.00,INR,-40.00,40.00,0.00,0.00
+2018-05-19,Water Can,Groceries,35.00,INR,-11.66,23.33,0.00,-11.67
+2018-05-19,cab 18,Taxi,13.00,INR,-13.00,13.00,0.00,0.00
+2018-05-19,Aloo Poori,General,50.00,INR,-50.00,50.00,0.00,0.00
+2018-05-19,Aloo poori-2,General,190.00,INR,0.00,190.00,0.00,-190.00
+2018-05-19,Fridge may 18,Furniture,640.00,INR,-160.00,-160.00,480.00,-160.00
+2018-05-19,Kitchen,Household supplies,787.00,INR,524.67,-262.34,0.00,-262.33
+2018-05-19,vegetables,Groceries,47.00,INR,-15.67,31.34,0.00,-15.67
+2018-05-19,Deepak K. paid Kartik S.,Payment,476.00,INR,476.00,-476.00,0.00,0.00
+2018-05-19,Extra balamce,General,24.00,INR,24.00,-24.00,0.00,0.00
+2018-05-20,Rivayat again ,General,780.00,INR,520.00,-260.00,-260.00,0.00
+2018-05-20,Tip Rivayat ,General,100.00,INR,-33.33,66.66,-33.33,0.00
+2018-05-23,130+60+50( ghiyakas+jeera powder+amchur powder),General,240.00,INR,-80.00,-80.00,0.00,160.00
+2018-05-23,"kitchen 6th May( sundrop, dhara,masale)",Household supplies,489.00,INR,-163.00,-163.00,0.00,326.00
+2018-05-23,breakfast may 12,Dining out,120.00,INR,-40.00,-40.00,0.00,80.00
+2018-05-24,Cab Thursday ,Taxi,100.00,INR,0.00,0.00,50.00,-50.00
+2018-05-26,Cab may 25,Taxi,13.00,INR,13.00,-13.00,0.00,0.00
+2018-05-26,Aalu puri + Ice cream + haircut,Groceries,160.00,INR,160.00,-160.00,0.00,0.00
+2018-05-26,Humko peeni hai peeni hai humko peeni hai ;),General,565.00,INR,565.00,-565.00,0.00,0.00
+2018-05-26,Vegetable + Brush,General,66.00,INR,66.00,-66.00,0.00,0.00
+2018-05-26,Raita,General,60.00,INR,-20.00,40.00,-20.00,0.00
+2018-05-26,Momos,General,20.00,INR,-20.00,20.00,0.00,0.00
+2018-05-26,Press,General,35.00,INR,35.00,-35.00,0.00,0.00
+2018-05-26,Kerala paratha,Dining out,60.00,INR,-30.00,60.00,-30.00,0.00
+2018-05-27,Pani poori,General,160.00,INR,106.66,-53.33,-53.33,0.00
+2018-05-27,Bread+ butter ,Groceries,81.00,INR,40.50,-40.50,0.00,0.00
+2018-05-28,auto monday,Car,43.33,INR,-43.33,43.33,0.00,0.00
+2018-05-29,Dinner box8,Dining out,100.00,INR,100.00,-100.00,0.00,0.00
+2018-05-29,Box8 dinner may 29,Dining out,193.00,INR,193.00,-193.00,0.00,0.00
+2018-05-30,Cab may 21,Taxi,43.30,INR,43.30,-43.30,0.00,0.00
+2018-05-31,bread,Groceries,40.00,INR,-13.34,26.67,-13.33,0.00
+2018-05-31,Kartik S. paid Deepak K.,Payment,1365.79,INR,-1365.79,1365.79,0.00,0.00
+2018-05-31,Kartik S. paid Parth A.,Payment,506.33,INR,0.00,506.33,-506.33,0.00
+2018-05-31,Box8 dinner,Dining out,113.00,INR,113.00,-113.00,0.00,0.00
+
+2018-06-01,Total balance, , ,INR,869.50,679.68,432.64,-1981.82
+
